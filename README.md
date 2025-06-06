@@ -10,6 +10,6 @@ My name is **Cadence Bowen** and I am a senior at **Kent State University** majo
 - **Environmental Justice & Media Advocacy**: Using GIS to advocate for current issues through popular forms of media.
 - **Rise of Deep Learning Models in GIS**: Learning and adapting to using deep learning models in GIS and their implications.
 
-## 🐟 Check Out My Work
+## 🐟 Portfolio
 
 [Add Work]
