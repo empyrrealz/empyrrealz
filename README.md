@@ -1,16 +1,16 @@
-## Hi there 👋
+Hello! 🌲
+My name is Cadence Bowen and I am a senior at Kent State University majoring in Geography and Geographic Information Sciences (GIS). My goal with the study is to apply Environmental Justice in the world of GIS, mostly focusing on modern forms of media sharing.
 
-<!--
-**empyrrealz/empyrrealz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌸 My Interests
+Pacific Salmon Conservation: Preservation and Protection of Pacific Salmon & their impacts on fishery communities.
 
-Here are some ideas to get you started:
+Green Space & Gentrification: Assessing urban development trends involving green space and their social impacts. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Cartographic Design: Combining GIS and Adobe Illustrate to create visually appealing maps. 
+
+Environmental Justice & Media Advocacy: Using GIS to advocate for current issues through popular forms of media. 
+
+Rise of Deep Learning Models in GIS: Learning and Adapting to using Deep Learning Models in GIS and it's implications. 
+
+🐟 Check Out My Work
+[Add Work] 
