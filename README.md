@@ -11,5 +11,5 @@ My name is **Cadence Bowen** and I am a senior at **Kent State University** majo
 - **Rise of Deep Learning Models in GIS**: Learning and adapting to using deep learning models in GIS and their implications.
 
 ## 🐟 Portfolio
-
-[Add Work]
+**Here! ->** https://sites.google.com/view/cadencegeog/home 
+ 
