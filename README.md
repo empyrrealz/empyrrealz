@@ -6,7 +6,7 @@ My name is **Cadence Bowen** and I am a senior at **Kent State University** majo
 
 - **Pacific Salmon Conservation**: Preservation and protection of Pacific salmon & their impacts on fishery communities.
 - **Green Space & Gentrification**: Assessing urban development trends involving green space and their social impacts.
-- **Cartographic Design**: Combining GIS and Adobe Illustrator to create visually appealing maps.
+- **Disaster Response**: Analyzing vulnerable areas & assessing mitigation response validity. 
 - **Environmental Justice & Media Advocacy**: Using GIS to advocate for current issues through popular forms of media.
 - **Rise of Deep Learning Models in GIS**: Learning and adapting to using deep learning models in GIS and their implications.
 
